@@ -1,0 +1,7 @@
+﻿bin/
+obj/
+.vs/
+node_modules/
+!*.dll
+!obj/Docker/publish/*
+!obj/Docker/empty/
